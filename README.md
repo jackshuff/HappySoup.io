@@ -99,7 +99,7 @@ Every time a request is made to the app, the request goes through the following 
 
 You can use the following button to quickly install/deploy the application to your own Heroku Account
 
-<a href="https://heroku.com/deploy?template=https://github.com/pgonzaleznetwork/sfdc-happy-soup/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/jackshuff/sfdc-happy-soup/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
